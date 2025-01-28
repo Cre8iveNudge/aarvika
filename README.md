@@ -4,6 +4,12 @@ Dil is a web-based application designed to help users reduce anxiety and blood p
 
 ---
 
+## Demo
+
+For a live demo, visit: [Demo Link](https://aarvika.onrender.com/)
+
+---
+
 ## Features
 
 - **Multiple Breathing Modes:** Choose between different guided breathing techniques to suit your preference.
@@ -57,12 +63,6 @@ Dil is a web-based application designed to help users reduce anxiety and blood p
 
 ---
 
-## Demo
-
-For a live demo, visit: [Demo Link](https://example.com) *(Replace with actual link when hosted)*
-
----
-
 ## License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the LICENSE file for details.
@@ -99,5 +99,5 @@ Contributions are welcome! If you'd like to improve the app or add new features,
 
 ## Contact
 
-For questions or feedback, reach out to [Your Name](mailto:your.email@example.com) *(Replace with your actual contact details)*.
+For questions or feedback, reach out to [Dr. Jacob Thomas](mailto:drjacobthomask@gmail.com)
 
