@@ -111,7 +111,7 @@
             x: Math.random() * canvas.width,
             y: Math.random() * canvas.height + canvas.height,
             size: Math.random() * 100 + 50, // Random size between 50 and 150
-            speed: Math.random() * 0.5 + 0.1, // Normal speed
+            speed: Math.random() * 0.25 + 0.05, // Normal speed
         });
     }
 
@@ -174,7 +174,7 @@
     function animate() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-        const elapsedTime = (Date.now() - startTime) / 1000;
+        const elapsedTime = ((Date.now() - startTime) / 1000) / 1.5; // Slow the counter by 1.5x
         const timeRemaining = Math.max(0, Math.floor(totalDuration - elapsedTime));
 
         if (elapsedTime >= totalDuration) {
