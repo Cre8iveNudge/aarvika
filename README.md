@@ -99,5 +99,5 @@ Contributions are welcome! If you'd like to improve the app or add new features,
 
 ## Contact
 
-For questions or feedback, reach out to [Dr. Jacob Thomas](mailto:drjacobthomask@gmail.com)
+For questions or feedback, reach out to [Dr. Shankargouda Patil](mailto:dr.ravipatil@gmail.com)
 
